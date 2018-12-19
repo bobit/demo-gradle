@@ -1,2 +1,0 @@
-# demo-gradle
-demo-gradle
