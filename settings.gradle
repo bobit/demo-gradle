@@ -1,3 +1,4 @@
 rootProject.name = 'demo-gradle'
 include 'demo-groovy'
+include 'demo-web'
 
